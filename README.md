@@ -5,3 +5,8 @@ A travel management system with both a front-end and back-end that I created as 
 ![Create an account page screenshot](./screenshots/create_account_ss.png)  |  ![Verify email page screenshot](./screenshots/verify_email_ss.png) | ![Sign in page screenshot](./screenshots/sign_in_ss.png)  |  ![Input expenses page screenshote](./screenshots/input_expenses_ss.png)
 :----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
 ![Itinerary page screenshot](./screenshots/itinerary_ss.png)  |  ![Update journal page screenshot](./screenshots/update_journal_ss.png) | ![View journal page screenshot](./screenshots/view_journal_ss.png)  |  ![Contacts page screenshot](./screenshots/contacts_ss.png)
+
+## Demo
+
+https://github.com/maahirjain/travel-management-system/assets/140958721/c356e9f2-c3af-46fd-8323-30de2d81f334
+
